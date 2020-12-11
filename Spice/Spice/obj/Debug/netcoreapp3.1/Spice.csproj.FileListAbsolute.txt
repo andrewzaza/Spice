@@ -166,3 +166,14 @@ G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateButtonPartial.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBacktoListButton.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_UpdateAndBacktoListButton.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OperationsButtonPartial.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeleteAndBacktoListButton.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Detalis.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBacktoListButton.cshtml.g.cs
