@@ -175,7 +175,6 @@ G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_U
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_OperationsButtonPartial.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_DeleteAndBacktoListButton.cshtml.g.cs
-G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Detalis.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBacktoListButton.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategories\Index.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategories\Create.cshtml.g.cs
@@ -218,3 +217,7 @@ G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_StatusMessage.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategories\Edit.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategories\Delete.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Categories\Detalis.cshtml.g.cs
+G:\courses\Spice\Spice\Spice\Spice\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubCategories\Detalis.cshtml.g.cs
